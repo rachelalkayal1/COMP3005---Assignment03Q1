@@ -14,3 +14,4 @@ To run the program:
   2. run : java Main.java
   3. OR: click the run button on the IDE
 
+Link to Youtube video: https://youtu.be/td8-_7B2PLo
